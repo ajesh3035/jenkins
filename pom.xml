@@ -49,3 +49,14 @@
 
 	
 </project>
+
+<repositories>
+  <repository>
+    <id>oracle-maven</id>
+    <url>https://maven.oracle.com</url>
+    <releases>
+      <enabled>true</enabled>
+    </releases>
+  </repository>
+</repositories>
+
